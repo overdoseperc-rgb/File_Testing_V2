@@ -1,0 +1,28 @@
+{
+  "squadName": "Training Squad",
+  "homeTown": "Metro City",
+  "active": true,
+  "members": [
+    {
+      "name": "Iron Mountain",
+      "age": 45,
+      "powers": [
+        "Strength"
+      ]
+    },
+    {
+      "name": "Swift Wind",
+      "age": 19,
+      "powers": [
+        "Speed"
+      ]
+    },
+    {
+      "name": "Crystal Mind",
+      "age": 31,
+      "powers": [
+        "Telepathy"
+      ]
+    }
+  ]
+}

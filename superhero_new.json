@@ -1,0 +1,44 @@
+{
+  "squadName": "Training Squad",
+  "homeTown": "Metro City",
+  "active": true,
+  "members": [
+    {
+      "name": "Swift Wind",
+      "age": 19,
+      "powers": [
+        "Speed"
+      ]
+    },
+    {
+      "name": "Night Owl",
+      "age": 25,
+      "secretIdentity": "Anna North",
+      "powers": [
+        "Night vision"
+      ]
+    },
+    {
+      "name": "Crystal Mind",
+      "age": 31,
+      "powers": [
+        "Telepathy"
+      ]
+    },
+    {
+      "name": "Solar Guard",
+      "age": 38,
+      "secretIdentity": "Ivan Sun",
+      "powers": [
+        "Solar energy"
+      ]
+    },
+    {
+      "name": "Iron Mountain",
+      "age": 45,
+      "powers": [
+        "Strength"
+      ]
+    }
+  ]
+}
